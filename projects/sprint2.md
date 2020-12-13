@@ -3,8 +3,6 @@ title: Sprint 2 Project
 layout: page
 ---
 
-![KnightInTheNight](https://socialify.git.ci/yashk2000/KnightInTheNight/image?description=1&descriptionEditable=It%27s%20Halloween!%20&font=Rokkitt&issues=1&language=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Light)
-
 # 🕸️ Knight In the Night
 
 It's Halloween 🎃! Rohan dressed as knight was on his way to Trick and Treat :city_sunset:, when he knocked outside the door of a mansion :european_castle:. The door seemingly on it's own, opened up revealing a spooky interior of the mansion. Giving no thought to this since it is Halloween, Rohan entered the house to get some candies. But little did he know that this particular mansion was haunted :ghost:! Now you need to help Rohan make his way through the mansion, fighting his way past foes ⚔️. If he makes it past all the enemies, not only he does he get a large bag of candy :candy:, but since it is a magical night, he shall also get the superpowers of a Knight :sparkles:!
