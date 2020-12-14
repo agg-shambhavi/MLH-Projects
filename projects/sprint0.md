@@ -3,6 +3,8 @@ title: Sprint 0 Project
 layout: page
 ---
 
+<br>
+
 # HelpingHand
 
 ## Introduction 📌
@@ -43,3 +45,6 @@ This would be an enriching experience for all of us that are part of this team.
 ## Try it out
 
 Here is a link to the apk for trying it out: [https://drive.google.com/file/d/1VjqDbLCVj_YqMb_hoIbc8naaDzEEYeKj/view?usp=sharing](https://drive.google.com/file/d/1VjqDbLCVj_YqMb_hoIbc8naaDzEEYeKj/view?usp=sharing)
+
+[Link to Github Repo](https://github.com/HarshCasper/HelpingHand) <br>
+[Link to Demo Video](shorturl.at/ezM59)

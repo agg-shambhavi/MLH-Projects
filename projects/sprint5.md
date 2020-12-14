@@ -3,6 +3,8 @@ title: Sprint 5 Project
 layout: page
 ---
 
+## Volunteery
+
 Have you ever wanted to volunteer on a free weekend but had no idea how to get started? Or perhaps you are a part of a non-profit that could do with more people to help? 🤝
 
 Presenting **Volunteery**, the solution to all the times you want to do some good. ✨
@@ -28,3 +30,6 @@ Volunteery is completely made with [Flutter](https://flutter.dev). 🎐 And for 
 Where we want to be:
 
 - An integrated end-to-end platform between volunteers and non-profits. 🧑🏿‍🤝‍🧑🏿
+
+[Link to Github Repo](https://github.com/QEDK/volunteery) <br>
+[Link to Demo Video](https://www.youtube.com/watch?v=cFYDt9ko-ZI&feature=youtu.be)

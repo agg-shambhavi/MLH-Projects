@@ -3,6 +3,8 @@ title: Sprint 3 Project
 layout: page
 ---
 
+<br>
+
 # 🖼️ Sneaky Sketchers
 
 ## 🙋 What is Sneaky Sketchers?
@@ -33,12 +35,6 @@ For setting up the desktop app, head over [here](https://github.com/yashk2000/Sn
 
 This project ended up being a kind of a research project for us since we spent quite a lot of our time reading the paper on Partial Convolutions by NVIDIA, understanding how it works, and implementing it. We found a Keras implementation which gave pretty good results. We understood the paper with the Keras code, and created a PyTorch implementation. Since this model is a bit large in size, we decided to go ahead with building a desktop application which can be used offline.
 
-## 🕒 Training Time
-
-The paper which we referred to has trained the model on 3 different datasets, for a period of 14 days. Where as with the resources we had(thanks to Google Colab), we just trained our model on a subset of the Places2 dataset for one night. Based on this limited amount of training, the model does not match the performance given by the original implementation, but it does a pretty good job. In future, should we get the time and resources to train the model completely, we would be able to improve our model a lot.
-
-Our model can be downloaded from [here](https://drive.google.com/file/d/1_J-NgecLjU9PDvkmnJAo7-ghcQuqia2N/view?usp=sharing).
-
 ## 📕 Resources
 
 - [https://github.com/MathiasGruber/PConv-Keras](https://github.com/MathiasGruber/PConv-Keras)
@@ -63,3 +59,6 @@ Our model can be downloaded from [here](https://drive.google.com/file/d/1_J-Ngec
    year      = {2018},
 }
 ```
+
+[Link to Github Repo](https://github.com/yashk2000/SneakySketchers) <br>
+[Link to Demo Video](shorturl.at/xBDGO)

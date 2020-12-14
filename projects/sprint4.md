@@ -3,6 +3,8 @@ title: Sprint 4 Project
 layout: page
 ---
 
+<br>
+
 ## Gitg0 🚀
 
 [![NPM](https://nodei.co/npm/gitg0.png)](https://npmjs.org/package/gitg0)
@@ -65,3 +67,6 @@ This is a replacement for `git commit -m` and will commit your files once added 
 - [Rachit Gupta](https://github.com/dotrachit)
 - [Shambhavi Aggarwal](https://github.com/agg-shambhavi)
 - [Preet Shah](https://github.com/shahpreetk)
+
+[Link to Github Repo](https://github.com/yashk2000/SneakySketchers) <br>
+[Link to Demo Video](shorturl.at/xBDGO)

@@ -3,13 +3,15 @@ title: Sprint 1 Project
 layout: page
 ---
 
+<br>
+
 # Acadivity
 
-## Introduction :label:
+## Introduction 🏷
 
-#### Is college just about academics? :book: <br> Or is it about co-curricular activities only? ⚽<br> What if we had a tool that could help us find the balance between both? <br>
+##### Is college just about academics? 📕 <br> Or is it about co-curricular activities only? ⚽<br> What if we had a tool that could help us find the balance between both? <br>
 
-## Features :round_pushpin:
+## Features 📌
 
 - <strong>Project Manager</strong> : Manage your ongoing projects with real time monitoring. :alarm_clock:
 
@@ -24,11 +26,12 @@ layout: page
   - Get a detailed report on the minimum requirement per semester to reach the target.
   - Update CGPA after each semester to get a revised plan of action.
 
-### Happy Hacking!
-
 ## Technology Stack :computer:
 
 - [MongoDB](https://docs.mongodb.com/)
 - [Express](https://expressjs.com/)
-- [ReactJS](https://reactjs.org/) ⚛️
+- [ReactJS](https://reactjs.org/)
 - [NodeJS](https://nodejs.org/en/)
+
+[Link to Github Repo](https://github.com/MLH-Fellowship/acadivity) <br>
+[Link to Demo Video](shorturl.at/bqtyS)
