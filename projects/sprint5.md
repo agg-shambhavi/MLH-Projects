@@ -3,18 +3,28 @@ title: Sprint 5 Project
 layout: page
 ---
 
-## Inspiration
+Have you ever wanted to volunteer on a free weekend but had no idea how to get started? Or perhaps you are a part of a non-profit that could do with more people to help? 🤝
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Presenting **Volunteery**, the solution to all the times you want to do some good. ✨
 
-## What it does
+## 🙋 So, how does it work?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+It's simple! You sign in as a volunteer or non-profit manager - and depending on your role, you can find new places to volunteer at, or add new events for people to find! 🔎
 
-## How we built it
+## 👨‍🏭 Who are we?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This project was built by Pod 1.1.3 Team 1, [AB Satyaprakash](https://github.com/imperial-lord), [Preet Shah](https://github.com/shahpreetk), [Shambhavi Aggarwal](https://github.com/agg-shambhavi) and [Ankit Maity](https://github.com/QEDK).
 
-## Challenge we ran into
+## 💻 What did we build this with?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Volunteery is completely made with [Flutter](https://flutter.dev). 🎐 And for all our backend services, Volunteery uses [Firebase](https://firebase.google.com). 🔥
+
+## 🔜 What's next?
+
+- Integrate our service with educational institutions which have credits for social work. 🏫
+- Make a custom ML-assisted algorithm for the best outcomes. 🤖
+- Gamify the experience with badges, ranks and custom merch. 👕
+
+Where we want to be:
+
+- An integrated end-to-end platform between volunteers and non-profits. 🧑🏿‍🤝‍🧑🏿

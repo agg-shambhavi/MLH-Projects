@@ -21,32 +21,9 @@ This project was built by [Shambhavi Aggarwal](https://github.com/agg-shambhavi)
 
 Sneaky Sketchers is built completely in [Python](https://www.python.org/). We have created [Jupyter Notebooks](https://jupyter.org/) on [Google Colab](https://colab.research.google.com/) to train our models and the desktop app is built using [PyQt5](https://pypi.org/project/PyQt5/) 🐍
 
-## :hammer: Installation
+## 🔨 Installation
 
 For setting up the desktop app, head over [here](https://github.com/yashk2000/SneakySketchers/tree/main/application).
-
-### Video instructions for using the application 🎥
-
-Click on the image below to view a video of how to use the application.
-
-<div align="center">
-    <a href="https://youtu.be/yhbVQI32spE"><img src="https://user-images.githubusercontent.com/41234408/99115100-eac7d480-2617-11eb-96c1-86f52501cb6e.png" width="720" height="420" alt="Sneaky Sketchers"></a>
-</div>
-
-## :man_technologist: How do I contribute?
-
-- To get more detailed documentation, please check out our project's wiki. :book:
-- Before contributing do go through the [Code of Conduct](https://github.com/yashk2000/SneakySketchers/blob/main/CODE_OF_CONDUCT.md) :wrench:
-- Please go through the [Contributing Guidelines](https://github.com/yashk2000/SneakySketchers/blob/main/CONTRIBUTING.md) as well. 📚
-- If you find any bugs in the application, or a feature you think would be nice to have, please open an issue.❗
-
-## 🪜 Folder Struture
-
-Each folder has it's own dedicated readme on what it's contents do, how to set them up and use them.
-
-- [`InPainting Notebook`](https://github.com/yashk2000/SneakySketchers/tree/main/InPainting%20Notebook): This folder contains the jupyter notebook we trained on Google Colab.
-- [`application`](https://github.com/yashk2000/SneakySketchers/tree/main/application): This folder contains the main PyQt5 desktop application.
-- [`inpainting`](https://github.com/yashk2000/SneakySketchers/tree/main/inpainting): This folder contains python scripts that can be used for training a model, or making predictions. They can directly be imported into your own project.
 
 ## 💭 What we learned
 
@@ -62,33 +39,7 @@ The paper which we referred to has trained the model on 3 different datasets, fo
 
 Our model can be downloaded from [here](https://drive.google.com/file/d/1_J-NgecLjU9PDvkmnJAo7-ghcQuqia2N/view?usp=sharing).
 
-## 📷 How the desktop app looks
-
-| ![Screenshot_20201114_023136](https://user-images.githubusercontent.com/41234408/99120923-b6591600-2621-11eb-8995-4ba92802416c.png) | ![Screenshot_20201114_023152](https://user-images.githubusercontent.com/41234408/99120920-b48f5280-2621-11eb-8f48-c6a9b5c6df5b.png) |
-| ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| PyQt App                                                                                                                            | Loading an image                                                                                                                    |
-| ![gg](https://user-images.githubusercontent.com/41234408/99121621-ba396800-2622-11eb-9526-f57f67ebd687.png)                         | ![gg1](https://user-images.githubusercontent.com/41234408/99121620-b9083b00-2622-11eb-829e-499da1a7a449.png)                        |
-| Original                                                                                                                            | Inpainted                                                                                                                           |
-| ![ff](https://user-images.githubusercontent.com/41234408/99121719-ea810680-2622-11eb-9316-f8ab7fef7888.png)                         | ![ff2](https://user-images.githubusercontent.com/41234408/99121713-e8b74300-2622-11eb-87b8-823935ecf182.png)                        |
-| Original                                                                                                                            | Inpainted                                                                                                                           |
-| ![ee](https://user-images.githubusercontent.com/41234408/99121752-fc62a980-2622-11eb-92eb-e806539e4492.png)                         | ![ee1](https://user-images.githubusercontent.com/41234408/99121748-fa98e600-2622-11eb-942c-b3a5978a69c6.png)                        |
-| Original                                                                                                                            | Inpainted                                                                                                                           |
-
-## :soon: What's next?
-
-- A web version of the application with a lighter model.
-- A better UI for the desktop app
-- Training the model further to improve it's performance.
-
-## 📜 License
-
-This project is released under a free and open-source software license, Apache License 2.0 or later ([LICENSE](LICENSE) or https://www.apache.org/licenses/LICENSE-2.0). The documentation is also released under a free documentation license, namely the [GFDL v1.3](https://www.gnu.org/licenses/fdl-1.3.en.html) license or later.
-
-### 🖊️ Contributions
-
-Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in the work by you, as defined in the Apache-2.0 license, shall be licensed as above, without any additional terms or conditions.
-
-## :books: Resources
+## 📕 Resources
 
 - [https://github.com/MathiasGruber/PConv-Keras](https://github.com/MathiasGruber/PConv-Keras)
 - "Image Inpainting for Irregular Holes Using Partial Convolutions", [https://arxiv.org/abs/1804.07723](https://arxiv.org/abs/1804.07723)

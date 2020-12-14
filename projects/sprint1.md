@@ -3,18 +3,32 @@ title: Sprint 1 Project
 layout: page
 ---
 
-## Inspiration
+# Acadivity
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Introduction :label:
 
-## What it does
+#### Is college just about academics? :book: <br> Or is it about co-curricular activities only? ⚽<br> What if we had a tool that could help us find the balance between both? <br>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Features :round_pushpin:
 
-## How we built it
+- <strong>Project Manager</strong> : Manage your ongoing projects with real time monitoring. :alarm_clock:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  - Create / edit projects
+  - Time your work
+  - Set milestones and conquer them.
+  - Stay motivated through post work retrospection.
+  - Take breaks with our entertainment suggestions
 
-## Challenge we ran into
+- <strong>Grade Aid</strong> : Set your target and achieve it through continuous effort. :chart_with_upwards_trend:
+  - Provide a target CGPA in X semesters.
+  - Get a detailed report on the minimum requirement per semester to reach the target.
+  - Update CGPA after each semester to get a revised plan of action.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### Happy Hacking!
+
+## Technology Stack :computer:
+
+- [MongoDB](https://docs.mongodb.com/)
+- [Express](https://expressjs.com/)
+- [ReactJS](https://reactjs.org/) ⚛️
+- [NodeJS](https://nodejs.org/en/)
