@@ -12,5 +12,7 @@ If you want to test it locally or add some new features, run the below commands.
 bundle install
 bundle exec jekyll serve
 ```
-# Class Photo
-https://cdn.discordapp.com/attachments/756532572514680902/790648825244155944/collage.jpg
+# Class Photos
+![collage](https://user-images.githubusercontent.com/48705124/103479395-631a6d00-4df3-11eb-8bfe-9a423acef150.jpg)
+
+![Screenshot_from_2020-12-21_22-33-08](https://user-images.githubusercontent.com/48705124/103479479-ea67e080-4df3-11eb-9e64-c1900c92730e.png)
