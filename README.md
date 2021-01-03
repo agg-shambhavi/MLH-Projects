@@ -12,5 +12,5 @@ If you want to test it locally or add some new features, run the below commands.
 bundle install
 bundle exec jekyll serve
 ```
-
-![MLH](https://raw.githubusercontent.com/yashk2000/mlh-fellowship-fall-2020/master/assets/img/mlh.jpg)
+# Class Photo
+https://cdn.discordapp.com/attachments/756532572514680902/790648825244155944/collage.jpg
