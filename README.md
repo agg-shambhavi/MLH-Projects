@@ -2,7 +2,7 @@
 
 # MLH Fellowship
 
-This is a page containing a desciption of the work I did as a part of the Explorer Batch of the MLH Fellowship(Fall 2020). 
+This page contains the desciption about the work I did as a part of the Explorer Batch of the MLH Fellowship(Fall 2020). 
 
 ## Development
 
